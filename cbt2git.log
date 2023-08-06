@@ -1,0 +1,8 @@
+2023-08-06 02:48:47.832629 - Initialized conversion of CBT304
+2023-08-06 02:48:47.891343 - Received CBT.V505.FILE304.PDS from FILE304.XMI 
+2023-08-06 02:48:47.893836 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE304.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:48:47.894865 - Found $$README.txt (text/plain) in CBT.V505.FILE304.PDS, moved to PDS/$$README
+2023-08-06 02:48:47.895898 - Found @FILE304.txt (text/plain) in CBT.V505.FILE304.PDS, moved to PDS/@FILE304
+2023-08-06 02:48:47.895908 - Found ASM.bin containing application/octet-stream, moved to PDS/ASM
+2023-08-06 02:48:47.897184 - Found CMD.bin containing application/octet-stream, moved to PDS/CMD
+2023-08-06 02:48:47.898209 - Found HELP.bin containing application/octet-stream, moved to PDS/HELP
